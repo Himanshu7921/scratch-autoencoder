@@ -1,4 +1,4 @@
 saved_model.pth
-autoencoder_weights
+autoencoder_weights.pth
 data/
 src/__pycache__
